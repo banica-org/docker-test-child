@@ -1,7 +1,9 @@
 package test.parent;
 
 public class MultiplyTask {
-    public static int multiply(int x, int y){
-        return x * y;
+    public static void multiply(int x, int y){
+        while(true){
+            System.out.println("asd");
+        }
     }
 }
